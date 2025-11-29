@@ -23,7 +23,7 @@
 6. Bagus Kusuma Loka <baguskusumaloka@gmail.com> (sugaB)
     - Telegram: kusuma_loka 
     - Kunci Publik GPG: `AF58BB7FAB67E04AE28E792F6C61266D15704311`
-    - Kunci Publik SSH: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICcWVHLEo8DptNsLUoqma10tw1pKITOXjNFqlzfJSwVX github-key'
+    - Kunci Publik SSH: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICcWVHLEo8DptNsLUoqma10tw1pKITOXjNFqlzfJSwVX github-key`
     - Kota: Jakarta
 8. Harry Suryapambagya <harsxv@gmail.com> (Harry)
     - Telegram: harsxv
