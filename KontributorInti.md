@@ -30,3 +30,8 @@
     - Kunci Publik GPG: `876675A886C18C42C38EE1A9D659B01049082CD5`
     - Kunci Publik SSH: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAoCOSpqMm/RoA6azCa+D1bWeM2rSIjX6eH+MrNUibWG harsxv`
     - Kota: Denpasar
+7. Aris Fathur Rahman <fathur.fathur7@gmail.com> (Arthur)
+    - Telegram: ArthurKanaya
+    - Kunci Publik GPG: `D7C8687CA30BF7C07A776473C55FF431E2978972`
+    - Kunci Publik SSH: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIF3CK6yO53fE/Cc5116jrf/sAw8c37+3Ikvt2frFEb8G fathur.fathur7@gmail.com`
+    - Kota: Bandung
