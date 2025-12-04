@@ -11,6 +11,11 @@
     - Kunci Publik GPG: `AF58BB7FAB67E04AE28E792F6C61266D15704311`
     - Kunci Publik SSH: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICcWVHLEo8DptNsLUoqma10tw1pKITOXjNFqlzfJSwVX github-key`
     - Kota: Jakarta
+- Firmansyah Dzakwan Arifien <fdzak01@gmail.com> (Dzakwan)
+    - Telegram: fdzak01
+    - Kunci Publik GPG: `65C4F8CCA44402DDCE9EB9985F3D6D9F31A402B6`
+    - Kunci Publik SSH: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHNEXiJMxT7AOrPtcgfeDXa0LPwKfzGAbamdUXaLslup fdzak01@gmail.com`
+    - Kota: Depok
 
 ## Pemaket
 - Herpiko Dwi Aguno <herpiko@gmail.com> (Piko)
@@ -35,11 +40,6 @@
     - Kunci Publik GPG: `F1F60517602888C8D5E486EB8AD7D4A302EE6771`
     - Kunci Publik SSH: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICY8uH+xQgBBBJflVyZP+eMOFDCvRhG8R7IXno+hpFbU atqamz@gmail.com`
     - Kota: Surabaya
-- Firmansyah Dzakwan Arifien <fdzak01@gmail.com> (Dzakwan)
-    - Telegram: fdzak01
-    - Kunci Publik GPG: `65C4F8CCA44402DDCE9EB9985F3D6D9F31A402B6`
-    - Kunci Publik SSH: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHNEXiJMxT7AOrPtcgfeDXa0LPwKfzGAbamdUXaLslup fdzak01@gmail.com`
-    - Kota: Depok
 - Aris Fathur Rahman <fathur.fathur7@gmail.com> (Arthur)
     - Telegram: ArthurKanaya
     - Kunci Publik GPG: `D7C8687CA30BF7C07A776473C55FF431E2978972`
