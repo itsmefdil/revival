@@ -16,6 +16,8 @@ We will have `live-image-amd64.hybrid.iso` ready to boot.
 
 # BlankOn Live Build
 
+Currently the BlanKon Live Build config only tested with live-build version `20230502` or commit sha on `dd916ac5be9428ff79a28fb6343f5d244acca438`.
+
 Git repository: https://github.com/BlankOn/blankon-live-build/
 
 This repository contains configuration and script to build the ISO using Debian Live Build tool. Because of the nature of `lb` commands that could make a mess of the original configuration, the build script (`build.sh`) need to be run on separate working directory.
