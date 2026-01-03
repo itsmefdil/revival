@@ -45,7 +45,20 @@ sudo ./build.sh https://github.com/BlankOn/blankon-live-build verbeek
   - `config/hooks/live` - The hooks that will be executed when the OS booted in live session.
   - `config/hooks/normal` - The hooks that will be executed during the ISO build process
 - `config/package-lists/live.list.chroot` - The list of the package that will be prepared for live session. There are live session specific packages listed here like `live-boot`, `live-config`, `live-config-systemd`
-  
+
+## What are important to setup / package / modify
+
+- Branding
+  - `/etc/os-release`
+  - About interface in GNOME's Settings
+  - Default GRUB background
+  - Default desktop background / wallpaper
+  - Installer customization
+- Default apps
+- System behaviours
+  - Default services
+- System convention
+  - Default font, etc
 
 # References
 
