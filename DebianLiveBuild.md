@@ -28,6 +28,25 @@ cd live-build-workdir
 sudo ./build.sh https://github.com/BlankOn/blankon-live-build verbeek
 ```
 
+## General Workflow
+
+<img src="https://github.com/BlankOn/revival/blob/main/assets/images/blankon-live-build-workflow.png?raw=true"/>
+
+## Configuration Overview
+
+- `config/binary` - Configuration that represent the compiled binary of the ISO
+- `config/boostrap` - Anything that related to bootstrap
+- `config/chroot` - Anything that related to chroot.
+- `config/common` - Distribution and package related
+- `config/source` - Package source configuration
+- `config/archives/blankon.key.binary` and `config/archives/blankon.key.chroot` - Initially the `lb` will try to use the keyring package from `--keyring-packages blankon-keyring` argument, but in some cases, especially in chroot reconfiguration, these package is still missing and these `blankon.key.*` will serve as backup.
+- `config/bootloaders` - Boot loader configuration, currently using GRUB with custom background (`config/bootloaders/grub-legacy/splash.xpm.gz`)
+- `config/hooks` - Small modifications to the system will be maintained here. If a modification is heavily tied to certain packages, then these packages should be updated instead. Smaller number will be executed first. Higher number will override the smaller ones.
+  - `config/hooks/live` - The hooks that will be executed when the OS booted in live session.
+  - `config/hooks/normal` - The hooks that will be executed during the ISO build process
+- `config/package-lists/live.list.chroot` - The list of the package that will be prepared for live session. There are live session specific packages listed here like `live-boot`, `live-config`, `live-config-systemd`
+  
+
 # References
 
 - https://www.debian.org/devel/debian-live/
