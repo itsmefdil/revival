@@ -48,7 +48,7 @@ sudo ./build.sh https://github.com/BlankOn/blankon-live-build verbeek
 
 ## Hooks vs Packaging
 
-Small modifications that related to system wide will be maintained in `config/hooks`. If a modification is heavily tied to certain packages, then these packages should be updated instead.
+Small modifications that related to system wide will be maintained in `config/hooks`. If a modification is heavily tied to certain packages, then these packages should be patched and repackaged into development repository instead.
 
 Example:
 - We should alter the distribution name and remove irrelevant files in `/etc` that may cause problems --> Alter them with hook.
