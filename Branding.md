@@ -4,7 +4,8 @@ This document needs to be improved to be a guide on how to do the rebranding, no
 
 ## Operating System Identity and Profile
 
-Please take a look at https://github.com/blankon-packages/base-files/
+- `base-files` - Please take a look at https://github.com/blankon-packages/base-files/
+- Repositories - Please see the configuration in https://github.com/BlankOn/blankon-live-build/
 
 ## Installer
 
