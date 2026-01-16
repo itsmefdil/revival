@@ -6,6 +6,7 @@
 
 <img width="1280" height="378" alt="image" src="https://github.com/user-attachments/assets/37ed692d-2ee3-4218-8c32-77dd6b8c6521" />
 <img width="1280" height="378" alt="image" src="https://github.com/user-attachments/assets/cfd5762c-a403-4267-9545-834a4c5bfb3f" />
+
 ```
 Get: 75 http://kartolo.sby.datautama.net.id/debian sid/main amd64 python3-zipp all 3.23.0-1 [11.0 kB]
 Get: 76 http://kartolo.sby.datautama.net.id/debian sid/main amd64 python3-setuptools all 78.1.1-0.1 [738 kB]
@@ -27,4 +28,6 @@ When build failed because of some missing dependencies from upstream repository,
 sudo irgsh-builder update-base
 sudo irgsh-builder init-builder
 ```
+
+This will update the repository index of the `base.tgz`, which will be used as chroot environment for building packages.
 
