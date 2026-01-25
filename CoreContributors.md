@@ -1,6 +1,6 @@
-# Kontributor Inti
+# Core Contributor
 
-## Infrastruktur
+## Infrastructure
 - Harry Suryapambagya <harsxv@gmail.com> (Harry)
     - Telegram: harsxv
     - Kunci Publik GPG: `876675A886C18C42C38EE1A9D659B01049082CD5`
@@ -17,7 +17,7 @@
     - Kunci Publik SSH: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHNEXiJMxT7AOrPtcgfeDXa0LPwKfzGAbamdUXaLslup fdzak01@gmail.com`
     - Kota: Depok
 
-## Pemaket
+## Package Maintainer
 - Herpiko Dwi Aguno <herpiko@gmail.com> (Piko)
     - Telegram: herpiko
     - Kunci Publik GPG: `46A04ACC3571C72340CE5DFF1DCCCA0F341E8101`
@@ -39,7 +39,7 @@
     - Kunci Publik SSH: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAz07e4ZUjccU91kym0/PvlNRi6EVyfKCuaT4m+pu1uj Adekabang`
     - Kota: Jakarta
 
-## Riset dan Pengembangan
+## Research and Development
 - Atqa Munzir Zakaria <atqamz@gmail.com> (Atqa)
     - Telegram: atqamz
     - Kunci Publik GPG: `F1F60517602888C8D5E486EB8AD7D4A302EE6771`
@@ -55,3 +55,8 @@
     - Kunci Publik GPG: `FCECBE42C321F6F5B20065335306F7E6F57CF7D1`
     - Kunci Publik SSH: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIH1h8JHk2YrDmlXQqp9PoPLIKgZuLKXX5Z2JXAArce1a atikhaoffice@gmail.com`
     - Kota: Jakarta
+
+
+---
+
+Mention all: @harsxv @kusuma_loka @fdzak01 @herpiko @luckymp @raffifu @mraskaa @atqamz @ArthurKanaya @atikha_z @al1r4d @Cengkaruk
